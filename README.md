@@ -34,7 +34,7 @@
 
 ## 📁 WUKU – Folder Structure
 
-### **Frontend**
+### **📦Frontend**
 ```
 frontend/
 ├── node_modules/                  # Installed frontend dependencies
@@ -86,7 +86,7 @@ frontend/
 
 ```
 
-### **Backend**
+### **📦Backend**
 ```
 backend/
 ├── node_modules/                 # Installed backend dependencies
@@ -127,7 +127,7 @@ backend/
 | Page | Screenshot |
 |------|-----------|
 | *Login Page* |![Screenshot 2025-05-10 141039](https://github.com/user-attachments/assets/c2b142ab-0178-4d9f-a30a-dd58e71cb8bd)|
-| *Registration![Screenshot 2025-05-10 141202](https://github.com/user-attachments/assets/897998b0-8109-4e1a-b860-45a4702011f9)|
+| *Registration | ![Screenshot 2025-05-10 141202](https://github.com/user-attachments/assets/897998b0-8109-4e1a-b860-45a4702011f9)|
 | *Chat Interface* | ![Screenshot 2025-05-10 140907](https://github.com/user-attachments/assets/a01fd210-ba54-4637-ae8a-017d325f74f1)|
 | *Profile Page* | ![Screenshot 2025-05-10 141016](https://github.com/user-attachments/assets/56a7237e-b4d4-4b30-bc51-0bd18f76dc21)|
 | *Theme Setting* | ![Screenshot 2025-05-10 140923](https://github.com/user-attachments/assets/1d127887-8829-43e2-8a9e-340940e861ab)|
