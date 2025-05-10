@@ -21,14 +21,26 @@
 
 ## 🛠️ Tech Stack
 
-| Layer       | Technology                    |
-|-------------|-------------------------------|
-| Frontend    | React.js, HTML, CSS |
-| Styling     | CSS, Tailwind, DaisyUI |
-| Backend     | Node.js, Express.js |
-| Real-Time   | Socket.IO |
-| Database    | MongoDB,Cloudnary  |
-| Auth        | JWT Authentication |
+### 🧩Frontend Stack:
+-*React* (via Vite) ⚡ – Fast SPA development
+-*React Router DOM* – Routing and navigation
+-*Axios* – API requests with token support
+-*Zustand* – Lightweight state management
+-*React Hot Toast* – Elegant toast notifications
+-*Lucide React* – Modern icon pack
+-*Tailwind CSS* – Utility-first styling framework
+-*DaisyUI* – UI components for Tailwind
+
+### 🚀 Backend Stack:
+-*Node.js + Express.js* – Backend server and API
+-*MongoDB + Mongoose* – NoSQL database & ODM
+-*Socket.IO* – WebSocket-based real-time chat
+-*Cloudinary* – Media upload & CDN storage
+-*Cors* – Cross-origin resource sharing
+-*Dotenv* – Manage environment variables
+-*Cookie Parser* – Parse HTTP cookies
+-*JSON Web Token (JWT)* – User authentication
+-*BcryptJS* – Password hashing
 
 ---
 
